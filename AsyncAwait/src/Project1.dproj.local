@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/01/04 23:01:03.000.163,=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/07 22:56:20.766,=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/07 23:12:58.888,D:\Projetos\Delphi\AsyncAwait\src\Main.pas=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/07 23:12:58.888,D:\Projetos\Delphi\AsyncAwait\src\Main.dfm=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/01/07 23:13:00.368,D:\Projetos\Delphi\AsyncAwait\src\Project1.dproj=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
