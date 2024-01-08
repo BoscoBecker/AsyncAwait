@@ -1,5 +1,6 @@
 Sample 
 
+```delphi
 procedure TForm125.Button1Click(Sender: TObject);
 var
   button: TButton;
@@ -16,6 +17,6 @@ begin
       button.Enabled := true;
       button.Caption := 'Done!';
     end);
-end;
+end;```
 
-https://www.thedelphigeek.com/2012/07/asyncawait-in-delphi.html
+Fonte: https://www.thedelphigeek.com/2012/07/asyncawait-in-delphi.html
